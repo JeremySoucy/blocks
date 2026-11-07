@@ -1,2 +1,5 @@
 googlevideo.com
 youtube.com
+
+0.0.0.0 googlevideo.com
+0.0.0.0 youtube.com
